@@ -1,13 +1,15 @@
 .main-div{
-    background: #aca7a7 ;
-    position: relative;
-    width: 100%;
-    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .card-div{
     position: absolute;
-    top: 50%;
-    left: 50%;
-    margin: -35px 0 0 -35px;
+    background: #a8a6a6;
+    top: 25%;
+    left: 40%;
+    margin: -50px 0 0 -50px;
+    height: auto;
+    width: auto;
 }
