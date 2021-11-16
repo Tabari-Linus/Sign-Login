@@ -1,0 +1,19 @@
+
+
+.main-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-div{
+    position: absolute;
+    background: #a8a6a6;
+    top: 25%;
+    left: 40%;
+    margin: -50px 0 0 -50px;
+    height: auto;
+    width: auto;
+}
+
+
